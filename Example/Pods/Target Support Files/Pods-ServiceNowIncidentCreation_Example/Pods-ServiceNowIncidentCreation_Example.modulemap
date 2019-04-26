@@ -1,0 +1,6 @@
+framework module Pods_ServiceNowIncidentCreation_Example {
+  umbrella header "Pods-ServiceNowIncidentCreation_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

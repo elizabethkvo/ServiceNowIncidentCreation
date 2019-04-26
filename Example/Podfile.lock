@@ -1,0 +1,16 @@
+PODS:
+  - ServiceNowIncidentCreation (0.1.0)
+
+DEPENDENCIES:
+  - ServiceNowIncidentCreation (from `../`)
+
+EXTERNAL SOURCES:
+  ServiceNowIncidentCreation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ServiceNowIncidentCreation: c1415de3c3e946e28c6b7e979e215a4b56e6d8ca
+
+PODFILE CHECKSUM: dc5e87ca1955134bcf8f65d17abd1c1cb762b615
+
+COCOAPODS: 1.6.1

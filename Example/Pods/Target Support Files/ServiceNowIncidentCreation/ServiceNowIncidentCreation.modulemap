@@ -1,0 +1,6 @@
+framework module ServiceNowIncidentCreation {
+  umbrella header "ServiceNowIncidentCreation-umbrella.h"
+
+  export *
+  module * { export * }
+}
